@@ -12,7 +12,10 @@
     </header>
     <nav>
         <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">Page 1</a></li>
+         <li><a href="index.html">Page 2</a></li>
+         <li><a href="index.html">Page 3</a></li>
+         <li><a href="index.html">Page 4</a></li>
         </ul>
     </nav>
     <section>
